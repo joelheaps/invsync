@@ -1,3 +1,11 @@
+## Fork
+
+This project was forked from [the upstream Invsync project](https://github.com/MrNavaStar/invSync) and updated to a new version of Minecraft expediently and lazily with LLM assistance.  There may be dragons 🐉, there may not.  I'm running this on a casual server I host, and if I get time for a more thorough review and cleanup of the port, perhaps I'll remove this scary disclaimer.
+
+Last tested and used on a pair of Minecraft Fabric 26.2 servers.
+
+---
+
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
