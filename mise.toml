@@ -1,0 +1,6 @@
+[tools]
+java = "25"
+
+[tasks.build]
+description = "Build the InvSync mod with Gradle"
+run = "./gradlew build"

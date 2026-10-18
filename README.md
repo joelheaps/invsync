@@ -4,6 +4,12 @@ This project was forked from [the upstream Invsync project](https://github.com/M
 
 Last tested and used on a pair of Minecraft Fabric 26.2 servers.
 
+A [Mise](https://mise.jdx.dev/) configuration and build task has been added for convenience.  To build the JAR to install on a server, run:
+```sh
+mise run build
+# builds to build/libs/
+```
+
 ---
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
